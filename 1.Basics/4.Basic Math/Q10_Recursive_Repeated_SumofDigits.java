@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q10_Repeated_SumofDigits {
+public class Q10_Recursive_Repeated_SumofDigits {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
